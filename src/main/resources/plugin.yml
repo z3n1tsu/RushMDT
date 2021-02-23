@@ -1,0 +1,7 @@
+name: RushMDT
+author: [zenitsu, zskouz]
+version: 1.0
+main: dev.sendai.rush.MDT
+commands: 
+  rush:
+  team:
